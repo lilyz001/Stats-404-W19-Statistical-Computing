@@ -1,0 +1,8 @@
+pbr==5.1.1
+six==1.12.0
+stevedore==1.30.0
+virtualenv==16.2.0
+virtualenv-clone==0.4.0
+virtualenvwrapper==4.8.2
+jupyterlab==0.35.4
+
